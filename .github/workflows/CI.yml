@@ -109,7 +109,7 @@ jobs:
 
       - name: ⬇️-Clone-Source-Code
         run: |
-          git clone --depth=1 https://github.com/TWShiyuLiou1997/padavan-4.4.git /opt/rt-n56u
+          git clone --depth=1 https://github.com/ntdsw/padavan-4.4.git /opt/rt-n56u
 
       # =======================================================
       # [步驟 A] 統一準備資源 (只 Clone 一次！)
