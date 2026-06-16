@@ -26,7 +26,7 @@ on:
           - MR2600
           - NETGEAR-BZV
           - XY-C1
-        default: K2P
+        default: MI-R3P
 
       language_select:
         description: "WebUI 語言設定 (Custom Language Selector)"
